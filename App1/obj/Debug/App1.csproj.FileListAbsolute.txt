@@ -1,0 +1,14 @@
+F:\Programming\C#\App1\App1\bin\Debug\App1.exe.config
+F:\Programming\C#\App1\App1\bin\Debug\App1.exe
+F:\Programming\C#\App1\App1\bin\Debug\App1.pdb
+F:\Programming\C#\App1\App1\obj\Debug\App1.csprojResolveAssemblyReference.cache
+F:\Programming\C#\App1\App1\obj\Debug\App1.csproj.CoreCompileInputs.cache
+F:\Programming\C#\App1\App1\obj\Debug\App1.exe
+F:\Programming\C#\App1\App1\obj\Debug\App1.pdb
+E:\Programming\C#\App1\App1\bin\Debug\App1.exe.config
+E:\Programming\C#\App1\App1\bin\Debug\App1.exe
+E:\Programming\C#\App1\App1\bin\Debug\App1.pdb
+E:\Programming\C#\App1\App1\obj\Debug\App1.csprojResolveAssemblyReference.cache
+E:\Programming\C#\App1\App1\obj\Debug\App1.csproj.CoreCompileInputs.cache
+E:\Programming\C#\App1\App1\obj\Debug\App1.exe
+E:\Programming\C#\App1\App1\obj\Debug\App1.pdb
