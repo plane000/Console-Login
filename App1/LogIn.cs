@@ -136,7 +136,7 @@ namespace App1 {
             string encryptedrecovery = rw.readEncryptedRecovery(username);
 
             bool recoverycorrect = false;
-            while (recoverycorrect == false) {
+            while (!recoverycorrect) {
                 Console.Write("Please enter the recovery code given to you at account " +
                     "creation: ");
 
